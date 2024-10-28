@@ -137,6 +137,7 @@
                     "Highlight",
                     "Magazine",
                     "Search",
+                    "Title",
                     "Off"
                 ],
                 "description": "Landing is recommended for all sites, Highlight & Magazine for those with more content",
@@ -147,7 +148,7 @@
                 "type": "text",
                 "group": "homepage",
                 "description": "Defaults to site description when empty",
-                "visibility": "header_style:[Landing, Search]"
+                "visibility": "header_style:[Landing, Search, Title]"
             },
             "background_image": {
                 "type": "boolean",
